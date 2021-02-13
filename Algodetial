@@ -5,7 +5,8 @@ The odds
 
 Conditional probability
 [1- (x+x_delta)] / [1- x]
-=
+=9ed62d41d4a5b0dbf2c0d626bb78ad286431342adac221099a2eae33353f30a9,2.6
+
 (1-x-x_delta)/(1-x)
 =
 1- x_delta/(1- x)
@@ -16,7 +17,7 @@ Probability * conditional probability
 =
 0.99/[1- (x+x_delta)] * [1-x_delta/(1-x)]
 =
-
+990
 EV value = conditional EV value * the probability that the player sees x
 =
 0.99 / [1 - (x + x_delta)] * [1 - x_delta/(1 - x)] * (1 - x)
